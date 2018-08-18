@@ -27,7 +27,7 @@ Finally, source your catkin workspace:
 
     source ~/catkin_ws/devel/setup.bash
 
-## Execution
+## Getting started
 
 Once configured, starting the file server is simple:
 
